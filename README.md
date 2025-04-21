@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faisal
 - 👀 I’m interested in Computer science and different programming languages
-- 🌱 I’m currently learning HTML and python
+- 🌱 I’m currently working on Automotive domain with tech stacks incl CPP and Python
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me... https://fslportfolio.netlify.app/
 
